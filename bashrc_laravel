@@ -2,3 +2,5 @@ alias serve='php artisan serve'
 alias mig='php artisan migrate'
 alias seed='php artisan db:seed'
 alias roll='php artisan migrate:rollback'
+alias ide="php artisan ide-helper:generate"
+alias fix="sudo chmod -R 755 storage" #give r/w to the storage folder
