@@ -1,0 +1,2 @@
+alias cdu="composer dump-autoload"
+alias cu="composer update"
