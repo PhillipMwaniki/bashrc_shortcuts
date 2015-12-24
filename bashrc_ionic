@@ -1,0 +1,3 @@
+alias iandy='ionic platform add android'
+alias ifox='ionic platform add firefoxos'
+alias isass='ionic setup sass'

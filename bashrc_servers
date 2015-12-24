@@ -1,0 +1,3 @@
+alias pyserve='python -m SimpleHTTPServer 8000'
+alias phpserve='php -S localhost:8000'
+alias iserve='ionic serve'
