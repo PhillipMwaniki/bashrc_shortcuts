@@ -1,0 +1,6 @@
+#import files
+source $BASH_PATH/bashrc_composer
+source $BASH_PATH/bashrc_git
+source $BASH_PATH/bashrc_laravel
+source $BASH_PATH/bashrc_main
+source $BASH_PATH/bashrc_scripts
